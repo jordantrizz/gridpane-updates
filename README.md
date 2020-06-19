@@ -1,7 +1,5 @@
 # gridpane-updates
-This page is simply a page to track changes from the GridPane Video Updates.
-
-This is simply transcribed from the related YouTube video, it should not be referenced as 
+This page is simply a page to track changes from the GridPane video updates. It's not set in stone, only a transcription.
 
 # June 19th 2020
 * Cloudflare fix, you can now set the TTL to auto and enable/disable proxy.
@@ -24,6 +22,7 @@ This is simply transcribed from the related YouTube video, it should not be refe
 			* First one is always free, and is brand new and not seen before.
 		* Working with GridPane engineers.
 		* Early as Monday/Tuesday next week.
+	* If someting is baked into the platform, and is broke; we will fix it.
 * Load Balancers of Apollo
 	* We default to GCP for Apollo instances.
 	* For nordics, it would be upcloud as that's what's available.
